@@ -20,11 +20,11 @@
     <key>provisioningProfiles</key>
     <dict>
         <!-- Bundle ID основного приложения -->
-        <key>com.tasty-chicken.chicken-lab</key>
+        <key>com.rotchir.roundthetable</key>
         <string>Tasty chicken lab</string>
         
         <!-- Bundle ID notification extension -->
-        <key>com.tasty-chicken.chicken-lab.notifications</key>
+        <key>com.rotchir.roundthetable.notifications</key>
         <string>Tasty chicken lab Not</string>
     </dict>
 </dict>
